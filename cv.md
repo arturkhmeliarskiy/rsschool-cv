@@ -14,7 +14,7 @@ I am a purposeful, sociable, energetic, responsible person. I aim to work with a
     * CSS3
 * __Scripting languages:__
     * Java Script(ES5/ES6)
-* __Libreries:__
+* __Libreries:__ 
     * Bootstrap
     * jQuery
 * __IDE:__
