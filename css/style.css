@@ -57,11 +57,6 @@ body {
   justify-content: flex-start;
   align-items: center;
 }
-
-.introduction .profile-photo {
-  margin-left: 360px;
-}
-
 .wrapper h1,
 .wrapper h2,
 .code-examples h2,
@@ -76,9 +71,5 @@ body {
 @media screen and (max-width: 600px) {
   .introduction .flex-container {
       display: block;
-  }
-
-  .introduction .profile-photo {
-      margin-left: 0;
   }
 }
