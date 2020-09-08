@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-.wrapper {
+.wrapper { 
   max-width: 1024px;
   margin: 0 auto;
   padding: 2vw 2vw 2vw 3.8vw;
