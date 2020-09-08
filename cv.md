@@ -26,7 +26,7 @@ I am a purposeful, sociable, energetic, responsible person. I aim to work with a
 ## Education:  
 Brest 2015-2020 Brest state technical University. Building engineer.  
   
-## English:  
+## English:   
 Elementary (A1) I study in Lingualeo  
 
 
