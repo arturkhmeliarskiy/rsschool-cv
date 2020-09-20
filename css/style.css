@@ -51,6 +51,10 @@ body {
   font-size: 20px;
 }
 
+.introduction .profile-photo {
+  margin-left: 360px;
+}
+
 .introduction .flex-container {
   display: flex;
   flex-direction: row;
